@@ -33,7 +33,7 @@
 ## 🔨 Previous Projects
 - [FootballShop_JS](https://github.com/Javimontes20/FootballShop_JS) – A dynamic shopping cart simulation for football products using JavaScript.
 - [Hamburguesería Rovers](https://github.com/Javimontes20/Hamburgueseria-Rovers) – A website showcasing a hamburger menu with interactive features.
-- [CRM Empleados](https://github.com/Javimontes20/CRM-Empleados) – A CRM system to manage employee information and interactions.
+- [CRM Empleados](https://github.com/Javimontes20/rovers.git) – A CRM system to manage employee information and interactions.
 
 ---
 
