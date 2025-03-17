@@ -36,8 +36,3 @@
 - [CRM Empleados](https://github.com/Javimontes20/rovers.git) – A CRM system to manage employee information and interactions.
 
 ---
-
-<!---
-Javimontes20/Javimontes20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
