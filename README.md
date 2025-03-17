@@ -4,7 +4,7 @@
 - 👀 I’m interested in **Web Development**, particularly **Front-End Development**.
 - 🌱 I’m currently learning **React**, **Vue.js**, **Angular**, and enhancing my knowledge of **responsive design**.
 - 💞️ I’m looking to collaborate on **open-source web projects**, especially those focused on **user experience** and **interactive design**.
-- 📫 How to reach me: You can email me at [javimontes20@gmail.com](mailto:javimontes20@gmail.com) or connect with me via [LinkedIn](https://www.linkedin.com/in/javimontes20/).
+- 📫 How to reach me: You can email me at [javimontesgarcia20@gmail.com](mailto:javimontesgarcia20@gmail.com) or connect with me via [LinkedIn](https://www.linkedin.com/in/javimontesgarcia/).
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: I’m passionate about traveling and discovering new cultures, which is what initially inspired me to dive into web development!
 - 💼 I’m currently open to new job opportunities and actively looking for my first professional opportunity in **Front-End Development**.
