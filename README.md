@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 - 👀 I’m interested in **Web Development**, particularly **Front-End Development**.
-- 🌱 I’m currently learning **React**, **Vue.js**, **Angular**, and enhancing my knowledge of **responsive design**.
+- 🌱 I’m currently learning **React**, **Angular**, and enhancing my knowledge of **responsive design**.
 - 💞️ I’m looking to collaborate on **open-source web projects**, especially those focused on **user experience** and **interactive design**.
 - 📫 How to reach me: You can email me at [javimontesgarcia20@gmail.com](mailto:javimontesgarcia20@gmail.com) or connect with me via [LinkedIn](https://www.linkedin.com/in/javimontesgarcia/).
 - 😄 Pronouns: **He/Him**
@@ -13,10 +13,10 @@
 
 ### Frameworks
 - **React**
-- **Vue.js**
 - **Angular**
 - **Tailwind CSS** – For rapid UI development with utility-first classes.
 - **Framer Motion** – For creating fluid animations and interactions in React.
+
 
 ### Libraries
 - **Bootstrap** – Front-end framework for developing responsive websites.
