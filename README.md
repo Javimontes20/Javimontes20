@@ -1,38 +1,66 @@
-# 👋 Hi, I’m **Javier Montes** (@Javimontes20)
+# 👋 Hi, I’m Javier Montes (@Javimontes20)
 
 ## 🚀 About Me
-- 👀 I’m interested in **Web Development**, particularly **Front-End Development**.
-- 🌱 I’m currently learning **React**, **Angular**, and enhancing my knowledge of **responsive design**.
-- 💞️ I’m looking to collaborate on **open-source web projects**, especially those focused on **user experience** and **interactive design**.
-- 📫 How to reach me: You can email me at [javimontesgarcia20@gmail.com](mailto:javimontesgarcia20@gmail.com) or connect with me via [LinkedIn](https://www.linkedin.com/in/javimontesgarcia/).
-- 😄 Pronouns: **He/Him**
-- ⚡ Fun fact: I’m passionate about traveling and discovering new cultures, which is what initially inspired me to dive into web development!
-- 💼 I’m currently open to new job opportunities and actively looking for my first professional opportunity in **Front-End Development**.
+Front-End Developer & **UX/UI Designer** with professional experience building scalable, high-performance web applications.
 
-## 🛠️ Technologies & Tools
+Currently working at **Osprean Technologies**, developing **data-driven interfaces** and **geospatial solutions**, with a strong focus on usability, performance, and clean architecture.
 
-### Frameworks
-- **React**
-- **Angular**
-- **Tailwind CSS** – For rapid UI development with utility-first classes.
-- **Framer Motion** – For creating fluid animations and interactions in React.
-
-
-### Libraries
-- **Bootstrap** – Front-end framework for developing responsive websites.
-- **jQuery** – JavaScript library for simplifying HTML document traversal and manipulation.
-
-### Tools
-- **Git** & **GitHub** – Version control and collaboration tools.
-- **Figma** – UI/UX design tool for prototyping.
-- **VSCode** – My preferred code editor.
-
-## 📚 Current Projects
-- **My Portfolio** – I’m currently working on my portfolio to showcase my front-end development work and projects. It will be available soon!
-
-## 🔨 Previous Projects
-- [FootballShop_JS](https://github.com/Javimontes20/FootballShop_JS) – A dynamic shopping cart simulation for football products using JavaScript.
-- [Hamburguesería Rovers](https://github.com/Javimontes20/rovers.git) – A website showcasing a hamburger menu with interactive features.
-- [CRM Empleados](https://github.com/Javimontes20/crm-people) – A CRM system to manage employee information and interactions.
+I specialize in bridging the gap between **design and development**, delivering intuitive and user-centered digital experiences.
 
 ---
+
+## 💼 Professional Highlights
+- 💻 Front-End Developer at **Osprean Technologies**
+- ⚙️ Strong experience with **TypeScript** and modern front-end architectures
+- 🌍 Specialized in **geospatial applications**, interactive maps, and real-time data
+- 🎨 UX/UI Designer focused on **usability, accessibility & design systems**
+- 🤖 Leveraging **AI-assisted development workflows** to improve productivity, code quality, and problem-solving efficiency
+- 🚀 Building scalable, maintainable, and high-performance front-end solutions
+
+---
+
+## 🛠️ Tech Stack
+
+### 👨‍💻 Front-End
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### 🎨 UI / UX
+![Figma](https://img.shields.io/badge/Figma-Design-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Design Systems](https://img.shields.io/badge/Design%20Systems-000000?style=for-the-badge)
+![Responsive](https://img.shields.io/badge/Responsive%20Design-0A66C2?style=for-the-badge)
+
+### 🎯 Styling & Interaction
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer%20Motion-EF008F?style=for-the-badge)
+
+### 🌍 Geospatial & Data
+![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=white)
+![Maps](https://img.shields.io/badge/Interactive%20Maps-3C3C3C?style=for-the-badge)
+
+### 🧰 Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+![Javi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Javimontes20&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Javimontes20&layout=compact&theme=tokyonight)
+
+---
+
+## 🌐 Connect with Me
+- 📩 Email: javimontesgarcia20@gmail.com  
+- 🔗 LinkedIn: https://www.linkedin.com/in/javimontesgarcia/  
+
+---
+
+## 🌍 Beyond Code
+I’m passionate about **traveling and discovering new cultures**, which influences how I design accessible and globally-minded digital experiences.
